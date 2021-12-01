@@ -1,0 +1,12 @@
+.B {
+    font-family: serif, "Times New Roman";
+    font-size: 36px;
+}
+
+.B.1 {
+    background-color: black;
+}
+
+.B.2 {
+    background-color: yellow;
+}
