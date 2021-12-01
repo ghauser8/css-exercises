@@ -3,10 +3,11 @@
     font-size: 36px;
 }
 
-.B.1 {
+.B.one {
     background-color: black;
+    color: white;
 }
 
-.B.2 {
+.B.two {
     background-color: yellow;
 }
